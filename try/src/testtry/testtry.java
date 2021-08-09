@@ -4,10 +4,11 @@ public class testtry {
 	public static void main(String [] args)
 	{
 	int a=10;
+	// add value
 	int b=2;
 	int []c = {1,5,9};
 	
-	try
+try
 	{
 		int d =a/b;
 		System.out.println(d);
